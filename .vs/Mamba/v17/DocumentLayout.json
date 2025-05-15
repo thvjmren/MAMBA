@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rana\\Desktop\\MAMBA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6B987B-F03D-489A-AFC7-8E6C218181F1}|Mamba\\Mamba.csproj|c:\\users\\rana\\desktop\\mamba\\mamba\\areas\\admin\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E6B987B-F03D-489A-AFC7-8E6C218181F1}|Mamba\\Mamba.csproj|solutionrelative:mamba\\areas\\admin\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6B987B-F03D-489A-AFC7-8E6C218181F1}|Mamba\\Mamba.csproj|c:\\users\\rana\\desktop\\mamba\\mamba\\areas\\admin\\views\\position\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E6B987B-F03D-489A-AFC7-8E6C218181F1}|Mamba\\Mamba.csproj|solutionrelative:mamba\\areas\\admin\\views\\position\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6B987B-F03D-489A-AFC7-8E6C218181F1}|Mamba\\Mamba.csproj|c:\\users\\rana\\desktop\\mamba\\mamba\\areas\\admin\\views\\position\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E6B987B-F03D-489A-AFC7-8E6C218181F1}|Mamba\\Mamba.csproj|solutionrelative:mamba\\areas\\admin\\views\\position\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6B987B-F03D-489A-AFC7-8E6C218181F1}|Mamba\\Mamba.csproj|c:\\users\\rana\\desktop\\mamba\\mamba\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E6B987B-F03D-489A-AFC7-8E6C218181F1}|Mamba\\Mamba.csproj|solutionrelative:mamba\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6B987B-F03D-489A-AFC7-8E6C218181F1}|Mamba\\Mamba.csproj|c:\\users\\rana\\desktop\\mamba\\mamba\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E6B987B-F03D-489A-AFC7-8E6C218181F1}|Mamba\\Mamba.csproj|solutionrelative:mamba\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6B987B-F03D-489A-AFC7-8E6C218181F1}|Mamba\\Mamba.csproj|c:\\users\\rana\\desktop\\mamba\\mamba\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E6B987B-F03D-489A-AFC7-8E6C218181F1}|Mamba\\Mamba.csproj|solutionrelative:mamba\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6B987B-F03D-489A-AFC7-8E6C218181F1}|Mamba\\Mamba.csproj|c:\\users\\rana\\desktop\\mamba\\mamba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E6B987B-F03D-489A-AFC7-8E6C218181F1}|Mamba\\Mamba.csproj|solutionrelative:mamba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6B987B-F03D-489A-AFC7-8E6C218181F1}|Mamba\\Mamba.csproj|c:\\users\\rana\\desktop\\mamba\\mamba\\wwwroot\\admin\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3E6B987B-F03D-489A-AFC7-8E6C218181F1}|Mamba\\Mamba.csproj|solutionrelative:mamba\\wwwroot\\admin\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6B987B-F03D-489A-AFC7-8E6C218181F1}|Mamba\\Mamba.csproj|c:\\users\\rana\\desktop\\mamba\\mamba\\wwwroot\\admin\\css\\maps\\style.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{3E6B987B-F03D-489A-AFC7-8E6C218181F1}|Mamba\\Mamba.csproj|solutionrelative:mamba\\wwwroot\\admin\\css\\maps\\style.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6B987B-F03D-489A-AFC7-8E6C218181F1}|Mamba\\Mamba.csproj|c:\\users\\rana\\desktop\\mamba\\mamba\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E6B987B-F03D-489A-AFC7-8E6C218181F1}|Mamba\\Mamba.csproj|solutionrelative:mamba\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6B987B-F03D-489A-AFC7-8E6C218181F1}|Mamba\\Mamba.csproj|c:\\users\\rana\\desktop\\mamba\\mamba\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E6B987B-F03D-489A-AFC7-8E6C218181F1}|Mamba\\Mamba.csproj|solutionrelative:mamba\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6B987B-F03D-489A-AFC7-8E6C218181F1}|Mamba\\Mamba.csproj|c:\\users\\rana\\desktop\\mamba\\mamba\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E6B987B-F03D-489A-AFC7-8E6C218181F1}|Mamba\\Mamba.csproj|solutionrelative:mamba\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6B987B-F03D-489A-AFC7-8E6C218181F1}|Mamba\\Mamba.csproj|c:\\users\\rana\\desktop\\mamba\\mamba\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E6B987B-F03D-489A-AFC7-8E6C218181F1}|Mamba\\Mamba.csproj|solutionrelative:mamba\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PositionController.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\MAMBA\\Mamba\\Areas\\Admin\\Controllers\\PositionController.cs",
+              "RelativeDocumentMoniker": "Mamba\\Areas\\Admin\\Controllers\\PositionController.cs",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\MAMBA\\Mamba\\Areas\\Admin\\Controllers\\PositionController.cs",
+              "RelativeToolTip": "Mamba\\Areas\\Admin\\Controllers\\PositionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T07:03:29.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\MAMBA\\Mamba\\wwwroot\\admin\\css\\style.css",
+              "RelativeDocumentMoniker": "Mamba\\wwwroot\\admin\\css\\style.css",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\MAMBA\\Mamba\\wwwroot\\admin\\css\\style.css",
+              "RelativeToolTip": "Mamba\\wwwroot\\admin\\css\\style.css",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEEAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-15T07:26:52.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\MAMBA\\Mamba\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Mamba\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\MAMBA\\Mamba\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Mamba\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T07:18:57.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\MAMBA\\Mamba\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Mamba\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\MAMBA\\Mamba\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Mamba\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T07:11:33.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\MAMBA\\Mamba\\Areas\\Admin\\Views\\Position\\Index.cshtml",
+              "RelativeDocumentMoniker": "Mamba\\Areas\\Admin\\Views\\Position\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\MAMBA\\Mamba\\Areas\\Admin\\Views\\Position\\Index.cshtml",
+              "RelativeToolTip": "Mamba\\Areas\\Admin\\Views\\Position\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T07:05:51.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\MAMBA\\Mamba\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Mamba\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\MAMBA\\Mamba\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "Mamba\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T08:43:57.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\MAMBA\\Mamba\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Mamba\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\MAMBA\\Mamba\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Mamba\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T07:08:48.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\MAMBA\\Mamba\\Areas\\Admin\\Views\\Position\\Create.cshtml",
+              "RelativeDocumentMoniker": "Mamba\\Areas\\Admin\\Views\\Position\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\MAMBA\\Mamba\\Areas\\Admin\\Views\\Position\\Create.cshtml",
+              "RelativeToolTip": "Mamba\\Areas\\Admin\\Views\\Position\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T09:02:20.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "style.css.map",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\MAMBA\\Mamba\\wwwroot\\admin\\css\\maps\\style.css.map",
+              "RelativeDocumentMoniker": "Mamba\\wwwroot\\admin\\css\\maps\\style.css.map",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\MAMBA\\Mamba\\wwwroot\\admin\\css\\maps\\style.css.map",
+              "RelativeToolTip": "Mamba\\wwwroot\\admin\\css\\maps\\style.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAACZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-15T07:28:00.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\MAMBA\\Mamba\\Program.cs",
+              "RelativeDocumentMoniker": "Mamba\\Program.cs",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\MAMBA\\Mamba\\Program.cs",
+              "RelativeToolTip": "Mamba\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T07:10:10.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\MAMBA\\Mamba\\appsettings.json",
+              "RelativeDocumentMoniker": "Mamba\\appsettings.json",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\MAMBA\\Mamba\\appsettings.json",
+              "RelativeToolTip": "Mamba\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-15T07:13:18.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\MAMBA\\Mamba\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Mamba\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\MAMBA\\Mamba\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Mamba\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T07:07:31.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\MAMBA\\Mamba\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Mamba\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\MAMBA\\Mamba\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Mamba\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAMBAAAAAAAAAAAuwCoBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T07:07:08.237Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
